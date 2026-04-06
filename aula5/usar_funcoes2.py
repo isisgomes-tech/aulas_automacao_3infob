@@ -1,21 +1,9 @@
-"""
-Função
-"""
-#def = define
-def somar(n1, n2):
-    return n1 + n2
+from funcao import imprimir,ler,pulaLinha,somar
 
-def imprimir(texto):
-    print(texto)
-
-def pulaLinha():
-    print('\n')
-
-def ler():
-    return int
-
+#Usando as funções
 imprimir("Digite o primeiro número: ")
 n1 = ler()
+pulaLinha()
 
 imprimir("Digite o segundo número: ")
 n2 = ler()
