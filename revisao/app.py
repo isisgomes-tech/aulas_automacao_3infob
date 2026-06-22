@@ -49,3 +49,10 @@ print(tabela_agrupada)
 # 10) Exportar dados
 df.to_excel("revisao\\nova_planilha.xlsx")
 
+
+#GITHUB PROBLEMS
+'''
+git add .
+git commit -m "x"
+git push
+'''
